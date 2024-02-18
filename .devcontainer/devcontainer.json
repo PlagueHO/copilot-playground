@@ -24,7 +24,13 @@
 				"GitHub.copilot-chat",
 				"ms-python.debugpy",
 				"ms-python.python",
-				"ms-vscode.vscode-typescript-next"
+				"ms-vscode.vscode-typescript-next",
+				"ms-azuretools.vscode-azurevirtualmachines",
+				"ms-azuretools.vscode-bicep",
+				"ms-vscode.vscode-node-azure-pack",
+				"ms-azuretools.azure-dev",
+				"ms-azuretools.vscode-azurecontainerapps",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
